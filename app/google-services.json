@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687247359984",
+    "firebase_url": "https://canalluz-2fb2a-default-rtdb.firebaseio.com",
+    "project_id": "canalluz-2fb2a",
+    "storage_bucket": "canalluz-2fb2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687247359984:android:1a3ce95c2e32e8fbfc6735",
+        "android_client_info": {
+          "package_name": "com.example.canalluzhls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687247359984-pabsqm6qknmvbae8lk3iq4fimc8dahsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2qRz1I9lXve07Jzc6tlNrHAucEddow14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687247359984-pabsqm6qknmvbae8lk3iq4fimc8dahsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

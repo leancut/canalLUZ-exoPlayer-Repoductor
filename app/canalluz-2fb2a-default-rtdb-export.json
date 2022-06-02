@@ -1,0 +1,28 @@
+{
+  "servidores" : {
+    "CCC1" : {
+      "conexiones" : "0",
+      "nombre" : "CCC 1",
+      "url" : "http://190.210.128.74:8050//hls/stream/index.m3u8"
+    },
+    "SantaFe1" : {
+      "conexiones" : "0",
+      "nombre" : "Santa Fe 1",
+      "url" : "http://181.117.97.141:8050/hls/stream/index.m3u8"
+    }
+  },
+  "videos" : {
+    "video1" : {
+      "anio" : "2022",
+      "nombre" : "video 1",
+      "reproducciones" : "0",
+      "url" : "https://samplelib.com/lib/preview/mp4/sample-10s.mp4"
+    },
+    "video2" : {
+      "anio" : "2022",
+      "nombre" : "video 2",
+      "reproducciones" : "0",
+      "url" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+    }
+  }
+}

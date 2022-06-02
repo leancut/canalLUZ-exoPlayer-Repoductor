@@ -1,0 +1,16 @@
+{
+  "videos" : {
+    "video 1" : {
+      "anio" : "2022",
+      "nombre" : "video 1",
+      "reproducciones" : "0",
+      "url" : "http://181.117.97.141:8050/hls/stream/index.m3u8"
+    },
+    "video 2" : {
+      "anio" : "2022",
+      "nombre" : "video 2",
+      "reproducciones" : "0",
+      "url" : "http://181.117.97.141:8050/hls/stream/index.m3u8"
+    }
+  }
+}
